@@ -1,0 +1,27 @@
+# Vim tmp files
+*~
+*.swp
+
+# Eclipse project files
+.project
+.classpath
+.settings
+
+# NetBeans private project files
+/nbproject/private/
+/nbactions-*.xml
+nb-configuration.xml
+
+# NetBeans project files
+**/nbactions.xml
+nbproject/
+
+# Intellij Idea private project files
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Maven output directories
+target*
+
