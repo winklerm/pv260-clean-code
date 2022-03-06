@@ -1,0 +1,119 @@
+atomicNumber, symbol, name, standardState, groupBlock, yearDiscovered
+1, H , Hydrogen,gas,nonmetal,1766
+2, He , Helium,gas,noble gas,1868
+3, Li , Lithium,solid,alkali metal,1817
+4, Be , Beryllium,solid,alkaline earth metal,1798
+5, B , Boron,solid,metalloid,1807
+6, C , Carbon,solid,nonmetal,-1
+7, N , Nitrogen,gas,nonmetal,1772
+8, O , Oxygen,gas,nonmetal,1774
+9, F , Fluorine,gas,halogen,1670
+10, Ne , Neon,gas,noble gas,1898
+11, Na , Sodium,solid,alkali metal,1807
+12, Mg , Magnesium,solid,alkaline earth metal,1808
+13, Al , Aluminum,solid,metal,-1
+14, Si , Silicon,solid,metalloid,1854
+15, P , Phosphorus,solid,nonmetal,1669
+16, S , Sulfur,solid,nonmetal,-1
+17, Cl , Chlorine,gas,halogen,1774
+18, Ar , Argon,gas,noble gas,1894
+19, K , Potassium,solid,alkali metal,1807
+20, Ca , Calcium,solid,alkaline earth metal,-1
+21, Sc , Scandium,solid,transition metal,1876
+22, Ti , Titanium,solid,transition metal,1791
+23, V , Vanadium,solid,transition metal,1803
+24, Cr , Chromium,solid,transition metal,-1
+25, Mn , Manganese,solid,transition metal,1774
+26, Fe , Iron,solid,transition metal,-1
+27, Co , Cobalt,solid,transition metal,-1
+28, Ni , Nickel,solid,transition metal,1751
+29, Cu , Copper,solid,transition metal,-1
+30, Zn , Zinc,solid,transition metal,1746
+31, Ga , Gallium,solid,metal,1875
+32, Ge , Germanium,solid,metalloid,1886
+33, As , Arsenic,solid,metalloid,-1
+34, Se , Selenium,solid,nonmetal,1817
+35, Br , Bromine,liquid,halogen,1826
+36, Kr , Krypton,gas,noble gas,1898
+37, Rb , Rubidium,solid,alkali metal,1861
+38, Sr , Strontium,solid,alkaline earth metal,1790
+39, Y , Yttrium,solid,transition metal,1794
+40, Zr , Zirconium,solid,transition metal,1789
+41, Nb , Niobium,solid,transition metal,1801
+42, Mo , Molybdenum,solid,transition metal,1778
+43, Tc , Technetium,solid,transition metal,1937
+44, Ru , Ruthenium,solid,transition metal,1827
+45, Rh , Rhodium,solid,transition metal,1803
+46, Pd , Palladium,solid,transition metal,1803
+47, Ag , Silver,solid,transition metal,-1
+48, Cd , Cadmium,solid,transition metal,1817
+49, In , Indium,solid,metal,1863
+50, Sn , Tin,solid,metal,-1
+51, Sb , Antimony,solid,metalloid,-1
+52, Te , Tellurium,solid,metalloid,1782
+53, I , Iodine,solid,halogen,1811
+54, Xe , Xenon,gas,noble gas,1898
+55, Cs , Cesium,solid,alkali metal,1860
+56, Ba , Barium,solid,alkaline earth metal,1808
+57, La , Lanthanum,solid,lanthanoid,1839
+58, Ce , Cerium,solid,lanthanoid,1803
+59, Pr , Praseodymium,solid,lanthanoid,1885
+60, Nd , Neodymium,solid,lanthanoid,1885
+61, Pm , Promethium,solid,lanthanoid,1947
+62, Sm , Samarium,solid,lanthanoid,1853
+63, Eu , Europium,solid,lanthanoid,1901
+64, Gd , Gadolinium,solid,lanthanoid,1880
+65, Tb , Terbium,solid,lanthanoid,1843
+66, Dy , Dysprosium,solid,lanthanoid,1886
+67, Ho , Holmium,solid,lanthanoid,1878
+68, Er , Erbium,solid,lanthanoid,1842
+69, Tm , Thulium,solid,lanthanoid,1879
+70, Yb , Ytterbium,solid,lanthanoid,1878
+71, Lu , Lutetium,solid,lanthanoid,1907
+72, Hf , Hafnium,solid,transition metal,1923
+73, Ta , Tantalum,solid,transition metal,1802
+74, W , Tungsten,solid,transition metal,1783
+75, Re , Rhenium,solid,transition metal,1925
+76, Os , Osmium,solid,transition metal,1803
+77, Ir , Iridium,solid,transition metal,1803
+78, Pt , Platinum,solid,transition metal,-1
+79, Au , Gold,solid,transition metal,-1
+80, Hg , Mercury,liquid,transition metal,-1
+81, Tl , Thallium,solid,metal,1861
+82, Pb , Lead,solid,metal,-1
+83, Bi , Bismuth,solid,metal,-1
+84, Po , Polonium,solid,metalloid,1898
+85, At , Astatine,solid,halogen,1940
+86, Rn , Radon,gas,noble gas,1900
+87, Fr , Francium,solid,alkali metal,1939
+88, Ra , Radium,solid,alkaline earth metal,1898
+89, Ac , Actinium,solid,actinoid,1899
+90, Th , Thorium,solid,actinoid,1828
+91, Pa , Protactinium,solid,actinoid,1913
+92, U , Uranium,solid,actinoid,1789
+93, Np , Neptunium,solid,actinoid,1940
+94, Pu , Plutonium,solid,actinoid,1940
+95, Am , Americium,solid,actinoid,1944
+96, Cm , Curium,solid,actinoid,1944
+97, Bk , Berkelium,solid,actinoid,1949
+98, Cf , Californium,solid,actinoid,1950
+99, Es , Einsteinium,solid,actinoid,1952
+100, Fm , Fermium,,actinoid,1952
+101, Md , Mendelevium,,actinoid,1955
+102, No , Nobelium,,actinoid,1957
+103, Lr , Lawrencium,,transition metal,1961
+104, Rf , Rutherfordium,,transition metal,1969
+105, Db , Dubnium,,transition metal,1967
+106, Sg , Seaborgium,,transition metal,1974
+107, Bh , Bohrium,,transition metal,1976
+108, Hs , Hassium,,transition metal,1984
+109, Mt , Meitnerium,,transition metal,1982
+110, Ds , Darmstadtium,,transition metal,1994
+111, Rg , Roentgenium,,transition metal,1994
+112, Cn , Copernicium,,transition metal,1996
+113, Nh , Nihonium,,post-transition metal,2003
+114, Fl , Flerovium,,post-transition metal,1998
+115, Mc , Moscovium,,post-transition metal,2003
+116, Lv , Livermorium,,post-transition metal,2000
+117, Ts , Tennessine,,post-transition metal,2010
+118, Og , Oganesson,,noble gas,2002
